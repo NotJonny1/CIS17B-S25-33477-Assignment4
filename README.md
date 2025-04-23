@@ -1,1 +1,1 @@
-# CIS17B-S25-33477-Assignment4
+This program creates a storage management system that allows users to do multiple different actions within the storage system. Utilizes "unordered_map" for fast ID searching and "map" to maintain items sorted by description. Also, includes custom exception handling that is tested within main.
